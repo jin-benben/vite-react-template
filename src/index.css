@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --color-333: #333;
+  --color-666: #666;
+  --color-999: #999;
+  --color-fff: #fff;
+  --color-ccc: #ccc;
+  --color-eee: #eee;
+  --color-f7f7f7:#f7f7f7;
+  --color-default:#48a4fe;
+}
